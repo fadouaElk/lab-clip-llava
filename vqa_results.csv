@@ -1,0 +1,26 @@
+Image,Question,LLaVA Answer,Human Evaluation
+football1.jpg,How many people are visible?,1,Correct
+football1.jpg,What objects can you see?,Soccer ball and soccer player,Correct
+football1.jpg,Where are the people?,Stadium,Correct
+football1.jpg,What are they doing?,Playing soccer,Correct
+football1.jpg,What is visible on the board?,Soccer ball,Wrong
+football2.jpeg,How many people are visible?,1,Correct
+football2.jpeg,What objects can you see?,Soccer ball and player,Correct
+football2.jpeg,Where are the people?,Stadium,Correct
+football2.jpeg,What are they doing?,Playing soccer,Correct
+football2.jpeg,What is visible on the board?,Soccer ball,Wrong
+football3.jpeg,How many people are visible?,1,Correct
+football3.jpeg,What objects can you see?,Soccer ball and player,Correct
+football3.jpeg,Where are the people?,Stadium,Correct
+football3.jpeg,What are they doing?,Playing soccer,Correct
+football3.jpeg,What is visible on the board?,Soccer ball,Wrong
+cat1.jpg,How many people are visible?,0,Correct
+cat1.jpg,What objects can you see?,Cat,Correct
+cat1.jpg,Where are the people?,Nowhere,Correct
+cat1.jpg,What are they doing?,Sitting,Correct
+cat1.jpg,What is visible on the board?,Cat,Wrong
+dog1.jpg,How many people are visible?,0,Correct
+dog1.jpg,What objects can you see?,Clock,Wrong
+dog1.jpg,Where are the people?,Behind dog,Wrong
+dog1.jpg,What are they doing?,Sitting,Correct
+dog1.jpg,What is visible on the board?,Clock,Wrong
